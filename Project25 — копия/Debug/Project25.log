@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project25\project25\source.cpp(50): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\user\source\repos\project25\project25\source.cpp(87): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Project25.vcxproj -> C:\Users\USER\source\repos\Project25\Debug\Project25.exe
